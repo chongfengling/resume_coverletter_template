@@ -1,4 +1,4 @@
-%%  minimalcv.cls
+%%  eggtartCV.cls
 %%  Resume and cover letter template. Extends article class. Modified by Chongfeng Ling.
 %%  Mandy Tao, March 2023
 %%  Chongfeng Ling, March 2024
